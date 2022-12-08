@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Week8Lab</string>
+    <string name="click_to_negivate">Click To negivate</string>
+    <string name="jumpman">jumpMan</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="this_button_opens_camera">this button opens Camera</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="this_costume_dialog_message">this costume Dialog message</string>
+    <string name="default_message">Default Message</string>
+    <string name="this_default_dialog_message">this default Dialog message</string>
+    <string name="image">image</string>
+    <string name="this_is_text2">This is text2</string>
+    <string name="test_it">Test it !</string>
+    <string name="success">Success</string>
+    <string name="ok">OKAY</string>
+    <string name="this_is_costume_dialog_message_thank_you">This is costume Dialog Message. Thank You !</string>
+    <string name="camPhoto">This from cammera</string>
+</resources>
